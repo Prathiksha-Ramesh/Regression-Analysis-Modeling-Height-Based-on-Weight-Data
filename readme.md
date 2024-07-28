@@ -69,4 +69,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Acknowledgments
 
-This project is inspired by common examples of simple linear regression analysis used in data science tutorials.
+This project is inspired by common examples of simple linear regression analysis used in data science tutorials and from the udemy course.
+.
